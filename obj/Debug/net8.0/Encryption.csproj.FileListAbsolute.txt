@@ -1,0 +1,15 @@
+C:\Users\ainaf\Desktop\Encryption\obj\Debug\net8.0\Encryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ainaf\Desktop\Encryption\obj\Debug\net8.0\Encryption.AssemblyInfoInputs.cache
+C:\Users\ainaf\Desktop\Encryption\obj\Debug\net8.0\Encryption.AssemblyInfo.cs
+C:\Users\ainaf\Desktop\Encryption\obj\Debug\net8.0\Encryption.csproj.CoreCompileInputs.cache
+C:\Users\ainaf\Desktop\Encryption\obj\Debug\net8.0\Encryption.sourcelink.json
+C:\Users\ainaf\Desktop\Encryption\bin\Debug\net8.0\Encryption.exe
+C:\Users\ainaf\Desktop\Encryption\bin\Debug\net8.0\Encryption.deps.json
+C:\Users\ainaf\Desktop\Encryption\bin\Debug\net8.0\Encryption.runtimeconfig.json
+C:\Users\ainaf\Desktop\Encryption\bin\Debug\net8.0\Encryption.dll
+C:\Users\ainaf\Desktop\Encryption\bin\Debug\net8.0\Encryption.pdb
+C:\Users\ainaf\Desktop\Encryption\obj\Debug\net8.0\Encryption.dll
+C:\Users\ainaf\Desktop\Encryption\obj\Debug\net8.0\refint\Encryption.dll
+C:\Users\ainaf\Desktop\Encryption\obj\Debug\net8.0\Encryption.pdb
+C:\Users\ainaf\Desktop\Encryption\obj\Debug\net8.0\Encryption.genruntimeconfig.cache
+C:\Users\ainaf\Desktop\Encryption\obj\Debug\net8.0\ref\Encryption.dll
