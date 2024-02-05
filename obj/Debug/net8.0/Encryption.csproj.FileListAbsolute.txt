@@ -13,3 +13,9 @@ C:\Users\ainaf\Desktop\Encryption\obj\Debug\net8.0\refint\Encryption.dll
 C:\Users\ainaf\Desktop\Encryption\obj\Debug\net8.0\Encryption.pdb
 C:\Users\ainaf\Desktop\Encryption\obj\Debug\net8.0\Encryption.genruntimeconfig.cache
 C:\Users\ainaf\Desktop\Encryption\obj\Debug\net8.0\ref\Encryption.dll
+C:\Users\ainaf\Desktop\Encryption\bin\Debug\net8.0\xunit.abstractions.dll
+C:\Users\ainaf\Desktop\Encryption\bin\Debug\net8.0\xunit.assert.dll
+C:\Users\ainaf\Desktop\Encryption\bin\Debug\net8.0\xunit.core.dll
+C:\Users\ainaf\Desktop\Encryption\bin\Debug\net8.0\xunit.execution.dotnet.dll
+C:\Users\ainaf\Desktop\Encryption\obj\Debug\net8.0\Encryption.csproj.AssemblyReference.cache
+C:\Users\ainaf\Desktop\Encryption\obj\Debug\net8.0\Encryption.csproj.CopyComplete

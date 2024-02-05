@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "VdVvrcdBYeVUgP/LQJEIF2fw8UwmPuKM2Dgjud1T2kOX/tZuZtw4eSOtlBb0ZAnvYeCYHj9j2G/VfIobB9H+mg==",
+  "dgSpecHash": "imAPG40VDSl3+vT+h5J7zY2RKZ24jmFW8bP59Gd3UckBfrBI2lt0iD0t/6yKeScRpTUj3W7yNQLj1DQMNMSx7A==",
   "success": true,
   "projectFilePath": "C:\\Users\\ainaf\\Desktop\\Encryption\\Encryption.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ainaf\\.nuget\\packages\\xunit\\2.6.6\\xunit.2.6.6.nupkg.sha512",
+    "C:\\Users\\ainaf\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\ainaf\\.nuget\\packages\\xunit.analyzers\\1.10.0\\xunit.analyzers.1.10.0.nupkg.sha512",
+    "C:\\Users\\ainaf\\.nuget\\packages\\xunit.assert\\2.6.6\\xunit.assert.2.6.6.nupkg.sha512",
+    "C:\\Users\\ainaf\\.nuget\\packages\\xunit.core\\2.6.6\\xunit.core.2.6.6.nupkg.sha512",
+    "C:\\Users\\ainaf\\.nuget\\packages\\xunit.extensibility.core\\2.6.6\\xunit.extensibility.core.2.6.6.nupkg.sha512",
+    "C:\\Users\\ainaf\\.nuget\\packages\\xunit.extensibility.execution\\2.6.6\\xunit.extensibility.execution.2.6.6.nupkg.sha512"
+  ],
   "logs": []
 }
