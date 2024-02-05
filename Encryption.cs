@@ -10,6 +10,12 @@ public class CaesarChiffer
         WriteLine("Please enter your firstname: ");
         string? myName = ReadLine();
 
+        if (myName is null)
+        {
+            WriteLine("Input can't be null");
+            return;
+        }
+
         int shift = 3;
         string encryptedName = EncryptCaesar(myName, shift);
 
