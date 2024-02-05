@@ -1,5 +1,3 @@
-using Xunit;
-
 namespace Caesar;
 public class CaesarChifferTest2
 {
