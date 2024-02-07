@@ -1,0 +1,14 @@
+C:\Users\erika\Downloads\Encryption\Encryption\obj\Debug\net7.0\Encryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erika\Downloads\Encryption\Encryption\obj\Debug\net7.0\Encryption.AssemblyInfoInputs.cache
+C:\Users\erika\Downloads\Encryption\Encryption\obj\Debug\net7.0\Encryption.AssemblyInfo.cs
+C:\Users\erika\Downloads\Encryption\Encryption\obj\Debug\net7.0\Encryption.csproj.CoreCompileInputs.cache
+C:\Users\erika\Downloads\Encryption\Encryption\bin\Debug\net7.0\Encryption.exe
+C:\Users\erika\Downloads\Encryption\Encryption\bin\Debug\net7.0\Encryption.deps.json
+C:\Users\erika\Downloads\Encryption\Encryption\bin\Debug\net7.0\Encryption.runtimeconfig.json
+C:\Users\erika\Downloads\Encryption\Encryption\bin\Debug\net7.0\Encryption.dll
+C:\Users\erika\Downloads\Encryption\Encryption\bin\Debug\net7.0\Encryption.pdb
+C:\Users\erika\Downloads\Encryption\Encryption\obj\Debug\net7.0\Encryption.dll
+C:\Users\erika\Downloads\Encryption\Encryption\obj\Debug\net7.0\refint\Encryption.dll
+C:\Users\erika\Downloads\Encryption\Encryption\obj\Debug\net7.0\Encryption.pdb
+C:\Users\erika\Downloads\Encryption\Encryption\obj\Debug\net7.0\Encryption.genruntimeconfig.cache
+C:\Users\erika\Downloads\Encryption\Encryption\obj\Debug\net7.0\ref\Encryption.dll
