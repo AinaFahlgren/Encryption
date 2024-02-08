@@ -1,17 +1,20 @@
-﻿/* Ett krypteringsprogram för att kryptera/avkryptera sitt namn med hjälp av CeasarChiffer: 
-A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
-D E F G H I J K L M N O P Q R S T U V W X Y Z A B C 
-*/
-
+﻿using Xunit;
 using System;
 using static System.Console;
 
-class CaesarChiffer
+namespace Caesar;
+public class CaesarChiffer
 {
     static void Main()
     {
         WriteLine("Please enter your firstname: ");
         string? myName = ReadLine();
+
+        if (myName is null)
+        {
+            WriteLine("Input can't be null");
+            return;
+        }
 
         int shift = 3;
         string encryptedName = EncryptCaesar(myName, shift);
@@ -63,5 +66,20 @@ class CaesarChiffer
     static string DecryptCaesar(string myName, int shift)
     {
         return EncryptCaesar(myName, -shift);
+    }
+
+    internal string EncryptCaesarChiffer(string myName, int shift)
+    {
+        throw new NotImplementedException();
+    }
+
+    internal string Encrypt_CaesarChiffer(string myName, int shift)
+    {
+        throw new NotImplementedException();
+    }
+
+    internal string Decrypt_CaesarChiffer(string myName, int shift)
+    {
+        throw new NotImplementedException();
     }
 }
